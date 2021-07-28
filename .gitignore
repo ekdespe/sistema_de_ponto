@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 .gradle
 build/
@@ -45,6 +46,8 @@ out/
 factoryConfiguration.json
 
 ### Java ###
+=======
+>>>>>>> 1426a255aac9670004fe57320ac0cd92f90f0453
 # Compiled class file
 *.class
 
@@ -68,8 +71,11 @@ factoryConfiguration.json
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 ### Java-Web ###
 ## ignoring target file
 target/
 
+=======
+>>>>>>> 1426a255aac9670004fe57320ac0cd92f90f0453
